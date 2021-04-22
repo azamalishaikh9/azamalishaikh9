@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azamalishaikh9
 - 👀 I’m interested in Full Stack / Data Science
-- 🌱 I’m currently learning Full Stack Technologies
+- 🌱 I’m currently learning and working Full Stack Technologies
 - 📫 How to reach me azamalishaikh9@gmail.com/+91-9595161599
 
 <!---
